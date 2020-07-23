@@ -16,9 +16,7 @@
                     type="text"
                     size="25"
                     placeholder="Digite para gerar..."
-                    :value="text"
-                    @input="onData"
-                />
+                    v-model="text">
             </div>
 
             <div v-if="text" class="output">
@@ -37,11 +35,6 @@
                     newQRCode() {
                         this.qrcode.value = this.text;
                         return this.qrcode.toDataURL();
-                    },
-                },
-                methods: {
-                    onData(event) {
-                        this.text = event.target.value;
                     },
                 },
             });
