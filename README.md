@@ -27,5 +27,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 </h4>
 
 ## Screenshot
-
+<h3>Aponte seu celular para a imagem 😉</h3>
 <img alt="photo1" title="photo1" src="/imgGit/photo1.png">
