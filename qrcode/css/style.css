@@ -26,3 +26,13 @@ input {
     padding: 30px 15px;
     background-color: #0006;
 }
+
+#footer{
+  color: black;
+  display: block;
+  align-items: center;
+  justify-content: center;
+  padding: 0 35px;
+  background-color: #fff;
+  box-shadow: 0 2px 23px 0 rgba(0, 0, 0, 0.1), 0 2px 49px 0 rgba(0, 0, 0, 0.06);
+}
