@@ -6,8 +6,8 @@
 
 ## :bookmark: About the project
 
-Crie <strong>QRCode</strong> facilmente com essa aplicação VueJs.
-- Clique aqui para acessar: [QRCode generator](https://juanpabllo.github.io/QRCode-generator/)
+Create <strong> QRCode </strong> easily with this VueJs application.
+- Click here to access: [QRCode generator](https://juanpabllo.github.io/QRCode-generator/)
 
 ## 🚀 Technologies used
 
