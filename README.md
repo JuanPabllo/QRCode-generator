@@ -1,17 +1,17 @@
 # QRCode generator
-## :bookmark: Sobre o desenvolvedor
+## :bookmark: About the developer
 <h4 align="left">
-    Feito por <a href="https://www.linkedin.com/in/juanpablodev/" target="_blank">Juan Pablo</a>
+    by <a href="https://www.linkedin.com/in/juanpablodev/" target="_blank">Juan Pablo</a>
 </h4>
 
-## :bookmark: Sobre o projeto
+## :bookmark: About the project
 
 Crie <strong>QRCode</strong> facilmente com essa aplicação VueJs.
 - Clique aqui para acessar: [QRCode generator](https://juanpabllo.github.io/QRCode-generator/)
 
-## 🚀 Tecnologias usadas
+## 🚀 Technologies used
 
-Este projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [VueJs](https://vuejs.org/)
@@ -20,13 +20,13 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - [QRious](https://github.com/neocotic/qrious)
 
 ## Screenshot
-<h3>Aponte seu celular para a imagem 😉</h3>
+<h3>Point your phone at the image 😉</h3>
 <img alt="photo1" title="photo1" src="/imgGit/photo1.png">
 
 ## :memo: License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+This project is under MIT license. See the [LICENSE] file (LICENSE.md) for more details.
 
 <h4 align="center">
-    Feito por <a href="https://www.linkedin.com/in/juanpablodev/" target="_blank">Juan Pablo</a>
+    by <a href="https://www.linkedin.com/in/juanpablodev/" target="_blank">Juan Pablo</a>
 </h4>
