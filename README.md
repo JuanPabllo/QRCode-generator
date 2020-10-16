@@ -25,7 +25,7 @@ This project was developed with the following technologies:
 
 ## :memo: License
 
-This project is under MIT license. See the [LICENSE] file (LICENSE.md) for more details.
+This project is under MIT license.
 
 <h4 align="center">
     by <a href="https://www.linkedin.com/in/juanpablodev/" target="_blank">Juan Pablo</a>
