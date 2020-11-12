@@ -18,6 +18,10 @@ body {
   );
 }
 
+#app h1 {
+  font-size: 48px;
+}
+
 input {
   font-size: 2em;
   margin-bottom: 30px;
