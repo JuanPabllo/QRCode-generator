@@ -18,8 +18,25 @@ body {
   );
 }
 
+input {
+  border: 2px solid #000;
+  border-color: #fff;
+  transition: 1s;
+}
+
+input:hover {
+  border-color: rgb(40, 42, 43);
+}
+
 #app h1 {
   font-size: 48px;
+  transition: 1s;
+  cursor: default;
+}
+
+#app h1:hover {
+  color: rgb(40, 42, 43);
+  color: linear-gradient(90deg, rgb(0, 0, 0) 38%, rgbrgb(0, 0, 0) %);
 }
 
 input {
@@ -34,7 +51,6 @@ input {
 }
 
 #footer {
-  color: black;
   display: block;
   align-items: center;
   justify-content: center;
@@ -45,4 +61,15 @@ input {
 
 #footer h3 {
   font-size: 22px;
+}
+
+#footer a {
+  text-decoration: none;
+  color: black;
+  transition: 0.5s;
+}
+
+#footer a:hover {
+  color: #00a0c6;
+  cursor: pointer;
 }
