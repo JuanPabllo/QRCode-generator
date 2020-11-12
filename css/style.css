@@ -1,10 +1,7 @@
-@font-face {
-  font-family: "RobotoMono";
-  src: url("../fonts/RobotoMono-Thin.ttf");
-}
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
 
 * {
-  font-family: "RobotoMono", monospace;
+  font-family: "Montserrat", sans-serif;
 }
 
 body {
@@ -13,7 +10,12 @@ body {
   text-align: center;
 
   color: #fff;
-  background: linear-gradient(to right, rgb(19, 106, 138), rgb(38, 120, 113));
+  background: rgb(6, 147, 232);
+  background: linear-gradient(
+    90deg,
+    rgba(6, 147, 232, 1) 38%,
+    rgba(0, 112, 255, 1) 79%
+  );
 }
 
 input {
@@ -35,4 +37,8 @@ input {
   padding: 0 35px;
   background-color: #fff;
   box-shadow: 0 2px 23px 0 rgba(0, 0, 0, 0.1), 0 2px 49px 0 rgba(0, 0, 0, 0.06);
+}
+
+#footer h3 {
+  font-size: 22px;
 }
